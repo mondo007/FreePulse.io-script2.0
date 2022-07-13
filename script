@@ -1,0 +1,866 @@
+loop, 5000
+{
+sleep,5000
+click
+MouseClick,left,792,64, 1, 3
+
+sleep, 90000
+MouseClick,left,1213,307, 1, 3
+
+sleep,22000
+MouseClick,left,62,62,1,3
+sleep,3000
+MouseClick,left,341,122, 1, 3
+click
+sleep,5000
+MouseClick,left,1079,609, 1, 3
+click
+sleep,23000
+sleep,1300
+
+SetKeyDelay, 50
+
+MouseClick,left,704,125, 1, 3
+click
+sleep,3000
+send, https://FreePulse.io?r=qiwkK6
+sleep,3000
+MouseClick,left,918,202, 1, 3
+click
+sleep,7000
+MouseClick,left,924,127, 1, 3
+click
+sleep,1000
+MouseClick,left,919,162, 1, 3
+click
+sleep,1000
+sleep,3000
+MouseClick,left,918,202, 1, 3
+click
+sleep,13000
+
+MouseClick,left,559,125, 1, 3
+click
+sleep,1000
+;MouseClick,left,913,162, 1, 3
+click:
+
+send, https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/
+MouseClick,left,918,202, 1, 3
+click
+MouseClick,left,559,125, 1, 3
+click
+send, https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/
+send, {ENTER}
+MouseClick,left,918,202, 1, 3
+click
+sleep,3000
+MouseClick,left,1103,163, 3, 3
+click
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+Send, {BACKSPACE}
+sleep,5000
+send, https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/
+send, {ENTER}
+sleep,5000
+
+click
+sleep,13000
+
+MouseClick,left,961,667,1,3
+MouseClick,left,961,667,1,3
+sleep,5000
+MouseClick,left,895,341, 1, 3
+click
+
+sleep,12000
+sleep,5000
+MouseClick,left,898,346, 1, 3
+sleep,5000
+MouseClick,left,895,341, 1, 3
+
+sleep,290000
+sleep,5000
+MouseClick,left,908,360, 1, 3
+click
+sleep,5000
+MouseClick,left,1198,281, 1, 3
+click
+sleep,14000
+MouseClick,left,942,706, 1, 3
+click
+sleep,5000
+MouseClick,left,1156,599, 1, 3
+click
+sleep,5000, 1, 3
+MouseClick,left,1055,839, 1, 3
+click
+sleep,5000
+MouseClick,left,650,417, 1, 3
+click
+send,pulsexpulsex1
+sleep,5000
+MouseClick,left,667,511, 1, 3
+
+send,pulsexpulsex1
+sleep,5000
+MouseClick,left,607,593, 1, 3
+
+sleep,5000
+MouseClick,left,667,664, 1, 3
+
+sleep,12000
+MouseClick,left,600,804, 1, 3
+
+sleep,3000
+MouseClick,left,668,718, 1, 3
+
+sleep,3000
+MouseClick,left,772,124, 1, 3
+
+sleep,5000
+MouseClick,left,546,163, 1, 3
+
+sleep,20000
+MouseClick,left,1022,714, 1, 3
+
+
+sleep,8000
+MouseClick,left,1836,453, 1, 3
+
+sleep,8000
+MouseClick,left,1831,429, 1, 3
+
+sleep,23000
+MouseClick,left,1502,674, 1, 3
+
+
+sleep,15000
+MouseClick,left,1074,226, 1, 3
+
+sleep,5000
+MouseClick,left,1250,627, 1, 3
+
+sleep,5000
+MouseClick,left,1143,659, 1, 3
+
+sleep,5000
+MouseClick,left,1071,534, 1, 3 ;ok :
+
+sleep,5000
+MouseClick,left,1049,613, 1, 3
+sleep,10000
+MouseClick,left,1663,875, 1, 3
+sleep, 1000
+MouseClick,left,1663,875, 1, 3
+
+
+
+
+sleep,5000
+MouseClick,left,1404,165, 1, 3
+
+sleep,15000
+MouseClick,left,1239,464, 1, 3
+
+sleep,5000
+send, hexican101.eth
+sleep,18000
+MouseClick,left,1092,588, 1, 3
+
+sleep,5000
+MouseClick,left,1313,745, 1, 3
+
+sleep,30000
+MouseClick,left,1409,770, 1, 3
+
+sleep,2000
+MouseClick,left,1314,742, 1, 3
+Send, {PgDn 30}
+Send, {PgDn 30}
+MouseClick,left,1314,742, 1, 3
+sleep,34000
+MouseClick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+MouseClick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+sleep,34000
+MouseClick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+MouseClick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+
+
+sleep,15000
+
+MouseClick,left,1341,861, 1, 3
+sleep,8000
+sleep,5000
+MouseClick,left,1404,165, 1, 3
+sleep,8000
+MouseClick,left,1239,464, 1, 3
+
+sleep,5000
+send, hexican101.eth
+sleep,18000
+MouseClick,left,1092,588, 1, 3
+
+sleep,5000
+
+MouseClick,left,1100,653, 1, 3
+
+sleep,5000
+MouseClick,left,1313,745, 1, 3
+
+sleep,30000
+MouseClick,left,1409,770, 1, 3
+
+sleep,2000
+MouseClick,left,1314,742, 1, 3
+Send, {PgDn 30}
+Send, {PgDn 30}
+MouseClick,left,1314,742, 1, 3
+sleep,34000
+MouseClick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+MouseClick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+sleep,34000
+MouseClick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+MouseClick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+Mouseclick,left,1314,742, 1, 3
+
+
+sleep,40000
+MouseClick,left,1891,9, 1, 3
+click
+sleep,9000
+click
+sleep,14000
+click
+}
